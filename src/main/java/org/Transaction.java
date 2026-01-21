@@ -1,4 +1,4 @@
-package org.protein;
+package org;
 
 public class Transaction {
     private double amount;

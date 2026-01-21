@@ -1,9 +1,6 @@
-package org.protein;
+package org;
 
 import smile.classification.*;
-import smile.data.*;
-import smile.data.formula.*;
-import smile.validation.*;
 
 import java.util.List;
 

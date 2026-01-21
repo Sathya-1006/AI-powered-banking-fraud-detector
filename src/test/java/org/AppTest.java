@@ -1,4 +1,4 @@
-package org.protein;
+package org;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
